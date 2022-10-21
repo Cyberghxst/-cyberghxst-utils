@@ -11,7 +11,7 @@ npm i @cyberghxst/utils
 
 ## Setup
 ```js
-const Util = require('@cyberghxst/utils');
+const { Util } = require('@cyberghxst/utils');
 const util = new Util();
 ```
 ## Examples
