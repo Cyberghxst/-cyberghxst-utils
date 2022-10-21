@@ -37,6 +37,7 @@ util.isBool('hello'); //returns false
 ### .print()
 Params: (text, color)
 <br> This is a bullshit console.log but renamed
+
 Available colors:
 |----------------------|
 | black                |
@@ -49,7 +50,8 @@ Available colors:
 | grey                 |
 | pink                 |
 | blue                 |
-Example:
+
+<br> Example:
 ```js
 util.print('Hello', 'cyan') //Logs 'Hello'.
 ```
