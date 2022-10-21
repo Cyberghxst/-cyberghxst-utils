@@ -51,6 +51,7 @@ Available colors:
 | pink                 |
 | blue                 |
 
+
 <br> Example:
 ```js
 util.print('Hello', 'cyan') //Logs 'Hello'.
