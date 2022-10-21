@@ -59,5 +59,5 @@ Params: (text)
 <br> This is the print method, but in red color.
 <br> Example:
 ```js
-util.print('Err') //Logs 'Err'.
+util.printWarn('Err') //Logs 'Err'.
 ```
