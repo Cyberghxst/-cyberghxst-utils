@@ -36,7 +36,7 @@ util.isBool('hello'); //returns false
 ```
 ### .print()
 Params: (text, color)
-<br> This is a bullshit console.log but renamed.
+<br> This is a bullshit console.log but renamed
 Available colors:
 |----------------------|
 | black                |
