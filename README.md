@@ -50,15 +50,14 @@ Available colors:
 | grey                 |
 | pink                 |
 | blue                 |
-
 <br> Example:
 ```js
 util.print('Hello', 'cyan') //Logs 'Hello'.
 ```
 ### .printWarn()
 Params: (text)
-<br> This is print, but in red color.
-Example:
+<br> This is the print method, but in red color.
+<br> Example:
 ```js
 util.print('Err') //Logs 'Err'.
 ```
